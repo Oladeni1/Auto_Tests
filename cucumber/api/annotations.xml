@@ -1,0 +1,5 @@
+<root>
+    <item name='cucumber.api.DataTable'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
